@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My name is Thamara and I'm a Software Engineer living in Belo Horizonte, Brazil.
+My name is Thamara and I'm a Software Engineer ~~living~~ surviving as I can in Belo Horizonte, Brazil.
 
 
 ### Get in touch ✉️
