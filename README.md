@@ -1,4 +1,4 @@
-### Hello there 👋
+## Hello there 👋
 
 My name is Thamara and I'm a Software Engineer living in Belo Horizonte, Brazil.
 
@@ -12,10 +12,8 @@ My name is Thamara and I'm a Software Engineer living in Belo Horizonte, Brazil.
 
 - [Bom Curriculo para Tech](https://github.com/thamara/bomcurriculoparatech): A colletion of tips and sources for creating a great curriculum for IT area. Abailable as a [GitBook](https://thamara.gitbook.io/bomcurriculoparatech/) too. (Available only in Brazilian Portuguese)
 
-### Get in touch ✉️
+## Get in touch ✉️
 
-On Twitter [@thamk](https://twitter.com/thamyk)
-
-By email tkcandrade@gmail.com
-
-On [LinkedIn](https://www.linkedin.com/in/thamara-andrade/)
+- On Twitter [@thamk](https://twitter.com/thamyk)
+- By email tkcandrade@gmail.com
+- On [LinkedIn](https://www.linkedin.com/in/thamara-andrade/)
