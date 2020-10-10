@@ -1,6 +1,8 @@
 ## Hello there 👋
 
-My name is Thamara and I'm a Software Engineer living in Belo Horizonte, Brazil.
+My name is Thamara, and I'm a Software Engineer living in Belo Horizonte, Brazil.
+
+I also share my adventures on open-source and other tech-related topics in my [blog](https://thamara.github.io/blog/).
 
 <p align="left">
   <a href="https://www.linkedin.com/in/thamara-andrade/">
@@ -20,4 +22,6 @@ My name is Thamara and I'm a Software Engineer living in Belo Horizonte, Brazil.
   <img height="300" src="https://user-images.githubusercontent.com/846063/67172751-f0120b80-f392-11e9-885c-bf2c4c4096c4.png">
 </p>
 
-- [Bom Curriculo para Tech](https://github.com/thamara/bomcurriculoparatech): A colletion of tips and sources for creating a great resume for IT area. Available as a [GitBook](https://thamara.gitbook.io/bomcurriculoparatech/) too. (Brazilian Portuguese only)
+- [Code Annotation, a VSCode extension](https://github.com/thamara/vscode-code-annotation): A Visual Studio Code extension to create and track annotations from your source code without actually committing comments on your code.
+
+- [Bom Curriculo para Tech](https://github.com/thamara/bomcurriculoparatech): A collection of tips and sources for creating a great resume for the IT area. Available as a [GitBook](https://thamara.gitbook.io/bomcurriculoparatech/) too. (Brazilian Portuguese only)
