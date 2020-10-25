@@ -16,11 +16,9 @@ I also share my adventures on open-source and other tech-related topics in my [b
 
 ## What I'm working on 
 
-- [Time to Leave](https://github.com/thamara/time-to-leave): Log work hours and get notified when it's time to leave the office and start to live.
+<img src="https://user-images.githubusercontent.com/846063/67172751-f0120b80-f392-11e9-885c-bf2c4c4096c4.png" align="right" width="300"/>
 
-<p align="center">
-  <img height="300" src="https://user-images.githubusercontent.com/846063/67172751-f0120b80-f392-11e9-885c-bf2c4c4096c4.png">
-</p>
+- [Time to Leave](https://github.com/thamara/time-to-leave): Log work hours and get notified when it's time to leave the office and start to live.
 
 - [Code Annotation, a VSCode extension](https://github.com/thamara/vscode-code-annotation): A Visual Studio Code extension to create and track annotations from your source code without actually committing comments on your code.
 
