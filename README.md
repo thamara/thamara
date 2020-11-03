@@ -2,7 +2,7 @@
 
 My name is Thamara, and I'm a Software Engineer living in Belo Horizonte, Brazil.
 
-I also share my adventures on open-source and other tech-related topics in my [blog](https://thamara.github.io/blog/).
+I also share my adventures on open-source and other tech-related topics in my [blog](https://thamara.dev/).
 
 <p align="left">
   <a href="https://www.linkedin.com/in/thamara-andrade/">
