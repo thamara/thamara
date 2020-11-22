@@ -16,6 +16,11 @@ I also share my adventures on open-source and other tech-related topics in my [b
 
 ## My latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Finally got an answer to a long-lasting question - How many times I watched a show on Netflix](https://thamara.dev/posts/finally-got-an-answer/)
+- [How to make someone's day in under 5 min](https://thamara.dev/posts/how-to-make-someones-day-in-under-5-min/)
+- [Contributing to Open-Source, a brief how-to](https://thamara.dev/posts/contributing-to-open-source/)
+- [CppCon 2020 - The hallway track](https://thamara.dev/posts/cppcon-2020-the-halway-track/)
+- [What if I need to make a change in node_modules?](https://thamara.dev/posts/what-if-i-need-to-make-a-change-in-node-modules/)
 <!-- BLOG-POST-LIST:END -->
 
 ## What I'm working on 
