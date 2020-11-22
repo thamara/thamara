@@ -14,6 +14,10 @@ I also share my adventures on open-source and other tech-related topics in my [b
   </a>
 </p>
 
+## My latest posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## What I'm working on 
 
 <img src="https://user-images.githubusercontent.com/846063/67172751-f0120b80-f392-11e9-885c-bf2c4c4096c4.png" align="right" width="300"/>
