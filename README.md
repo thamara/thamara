@@ -1,4 +1,4 @@
-## Hello there 👋
+## Hey there 👋
 
 My name is Thamara, and I'm a Software Engineer living in Belo Horizonte, Brazil.
 
@@ -14,7 +14,7 @@ I also share my adventures on open-source and other tech-related topics in my [b
   </a>
 </p>
 
-## My latest posts
+## My latest posts 📖
 <!-- BLOG-POST-LIST:START -->
 - [Finally got an answer to a long-lasting question - How many times I watched a show on Netflix](https://thamara.dev/posts/finally-got-an-answer/)
 - [How to make someone's day in under 5 min](https://thamara.dev/posts/how-to-make-someones-day-in-under-5-min/)
@@ -23,7 +23,7 @@ I also share my adventures on open-source and other tech-related topics in my [b
 - [What if I need to make a change in node_modules?](https://thamara.dev/posts/what-if-i-need-to-make-a-change-in-node-modules/)
 <!-- BLOG-POST-LIST:END -->
 
-## What I'm working on 
+## What I'm working on 👩‍💻
 
 <img src="https://user-images.githubusercontent.com/846063/67172751-f0120b80-f392-11e9-885c-bf2c4c4096c4.png" align="right" width="300"/>
 
