@@ -16,7 +16,7 @@ I also share my adventures on open-source and other tech-related topics in my [b
 
 ## My latest posts 📖
 <!-- BLOG-POST-LIST:START -->
-- [Becoming a conference speaker - What I learned](https://thamara.dev/posts/becoming-a-conference-speaker/)
+- [My learnings while becoming a conference speaker](https://thamara.dev/posts/my-learning-while-becoming-a-conference-speaker/)
 - [How to sleep... in different programming languages](https://thamara.dev/posts/how-to-sleep/)
 - [Finally got an answer to a long-lasting question - How many times I watched a show on Netflix](https://thamara.dev/posts/finally-got-an-answer/)
 - [How to make someone's day in under 5 min](https://thamara.dev/posts/how-to-make-someones-day-in-under-5-min/)
