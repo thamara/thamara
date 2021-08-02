@@ -16,11 +16,11 @@ I also share my adventures on open-source and other tech-related topics in my [b
 
 ## My latest posts 📖
 <!-- BLOG-POST-LIST:START -->
+- [Online tools for C++ developers](https://thamara.dev/posts/online-tools-for-cpp-developers/)
 - [Code Review - What is and why you should care](https://thamara.dev/posts/code-review/)
 - [Code Annotation: a VSCode extension for adding notes on your code without commiting](https://thamara.dev/posts/code-annotation-a-vscode-extension/)
 - [My learnings while becoming a conference speaker](https://thamara.dev/posts/my-learning-while-becoming-a-conference-speaker/)
 - [How to sleep... in different programming languages](https://thamara.dev/posts/how-to-sleep/)
-- [Finally got an answer to a long-lasting question - How many times I watched a show on Netflix](https://thamara.dev/posts/finally-got-an-answer/)
 <!-- BLOG-POST-LIST:END -->
 
 ## What I'm working on 👩‍💻
