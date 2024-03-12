@@ -16,11 +16,11 @@ I also share my adventures on open-source and other tech-related topics in my [b
 
 ## My latest posts 📖
 <!-- BLOG-POST-LIST:START -->
+- [GPT Pilot Reviewed - A Glimpse into the future of development](https://thamara.dev/posts/gpt-pilot/)
 - [Turning Screws - The hidden complexity of easy tasks](https://thamara.dev/posts/turning-screws/)
 - [A reflection on 10+ years of professional life - in badges](https://thamara.dev/posts/a-reflection-on-10-years-of-professional-life/)
 - [From Chaos to Clarity - Building My Ultimate Productivity Framework](https://thamara.dev/posts/from-chaos-to-clarity/)
 - [Engineering Management for the Rest of Us](https://thamara.dev/posts/engineering-management-for-the-rest-of-us/)
-- [To guard or not to guard: Header guards x pragma once](https://thamara.dev/posts/pragma-once-vs-header-guards/)
 <!-- BLOG-POST-LIST:END -->
 
 ## What I'm working on 👩‍💻
